@@ -3,7 +3,6 @@ A hacky Linux script to force RuneLite to focus upon notifications.
 
 # Dependencies
 
-- `sudo apt install wmctrl`
 - `sudo apt instal xdotool`
 
 # Usage
