@@ -2,7 +2,7 @@
 
 import re
 import sys
-from subprocess import PIPE, STDOUT, Popen, check_output, run, CalledProcessError
+from subprocess import PIPE, STDOUT, Popen, run
 import shlex
 
 
